@@ -1,0 +1,5 @@
+#!/usr/bin/env escript
+
+main([]) ->
+  io:format("OK, this worked fine!~n").
+
